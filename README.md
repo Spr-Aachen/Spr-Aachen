@@ -7,7 +7,9 @@
     <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spr-Aachen&langs_count=8&hide_title=true&hide_border=true&layout=compact&theme=vue"/>
 </a>
 
-[![huggingface](https://img.shields.io/badge/HuggingFace-Space-yellow?logo=HuggingFace)](https://huggingface.co/SprAachen)
+[![huggingface](https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=HuggingFace)](https://huggingface.co/SprAachen)
+[![pypi](https://img.shields.io/badge/PyPI-Projects-blue?logo=PyPI)](https://pypi.org/user/Spr_Aachen)
+
 [![youtube](https://img.shields.io/badge/YouTube-Channel-red?logo=YouTube)](https://www.youtube.com/@Spr_Aachen)
 [![bilibili](https://img.shields.io/badge/BiliBili-Space-blue?logo=BiliBili)](https://space.bilibili.com/359461611)
 
