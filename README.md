@@ -1,38 +1,15 @@
 <div id="title" align=center>
-
-<table>
-    <tr>
-        <td colspan="1" align="center">
-            <a href="">
-                <img title="Foxie-404's GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=Foxie-404&theme=react&hide_border=true"/>
-            </a>
-        </td>
-        <td colspan="1" align="center">
-            <a href="">
-                <img alt="Foxie-404's Top Languages" src="./profile/top-langs.svg" height="192px"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="">
-                <img alt="Foxie-404's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Foxie-404&theme=react&hide_border=true" />
-            </a>
-        </td>
-    </tr>
-</table>
-
-<details open>
-    <summary>
-        Support UN to Save Refugees in Gaza
-    </summary>
-    <a href="https://donate.unhcr.org/sg/en-sg/general">
-        UNHCR
+    <a href="https://blog.spr-aachen.com">
+        <img width="51%" src="https://readme-typing-svg.herokuapp.com?center=true&lines=Ciallo～(∠・ω<+)⌒☆&font=Fira+Code&weight=420&color=ACEGGECA&duration=1234&pause=4321" alt="Holá~"/>
+        <br>
+        <img height="135px" src="./profile/stats.svg"/>
+        <img height="135px" src="./profile/langs.svg"/>
     </a>
-    </br>
-    <a href="https://help.unicef.org/global/donate-to-children">
-        UNICEF
+    <br>
+    <a href="https://huggingface.co/SprAachen">
+        <img src="https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=HuggingFace"/>
     </a>
-</details>
-
+    <a href="https://pypi.org/user/Spr_Aachen">
+        <img src="https://img.shields.io/badge/PyPI-Projects-blue?logo=PyPI"/>
+    </a>
 </div>
