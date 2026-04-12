@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Spr_Aachen's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1384, Total Commits  (last year) : 832, Total PRs: 91, Total Issues: 2, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 1385, Total Commits  (last year) : 832, Total PRs: 91, Total Issues: 2, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 51.2714171578359;
+        stroke-dashoffset: 51.26938158073388;
       }
     }
   
