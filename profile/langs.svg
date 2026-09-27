@@ -124,7 +124,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="118.66"
+          width="118.65"
           height="8"
           fill="#3572A5"
         />
@@ -132,7 +132,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="118.66"
+          x="118.65"
           y="0"
           width="48.76"
           height="8"
@@ -142,7 +142,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="167.42"
+          x="167.41"
           y="0"
           width="29.48"
           height="8"
@@ -152,7 +152,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="196.89999999999998"
+          x="196.89"
           y="0"
           width="18.95"
           height="8"
@@ -162,9 +162,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="215.84999999999997"
+          x="215.83999999999997"
           y="0"
-          width="11.72"
+          width="11.75"
           height="8"
           fill="#ff5a03"
         />
@@ -172,7 +172,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.56999999999996"
+          x="227.58999999999997"
           y="0"
           width="19.91"
           height="8"
@@ -182,7 +182,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.47999999999996"
+          x="237.49999999999997"
           y="0"
           width="18.15"
           height="8"
@@ -192,7 +192,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.62999999999997"
+          x="245.64999999999998"
           y="0"
           width="14.36"
           height="8"
@@ -233,7 +233,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 4.69%
+        Astro 4.70%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
